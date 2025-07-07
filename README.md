@@ -20,19 +20,19 @@ I'm a freelance AI Engineer based in France, specializing in transforming comple
 - **Real-Time Tourism Analytics** - Created predictive analytics reducing tourist wait times by 40%
 - **B2B Lead Scoring System** - Implemented model increasing qualified leads by 178%
 
-#### 🎓 OpenClassrooms AI Engineer Certification
+#### 🎓 AI Engineer Projects
 Completed 10 comprehensive projects covering the entire AI/ML lifecycle:
 
-1. **Smart City Analytics** - Urban tree maintenance optimization using geospatial ML
-2. **Deep Learning Sentiment Analysis** - Real-time brand protection system (94% accuracy)
-3. **Computer Vision for Autonomous Vehicles** - Semantic segmentation with 76.4% mIoU
-4. **Healthcare Data Engineering** - GDPR-compliant pipeline processing 10M+ records
-5. **Customer Segmentation** - Unsupervised learning for targeted marketing
-6. **Content Recommendation System** - Hybrid approach with 0.85 Precision@10
-7. **Credit Scoring Model** - Interpretable ML with SHAP explanations
-8. **AI Project Management Framework** - Strategic planning methodology
-9. **MLOps Implementation** - End-to-end pipeline with monitoring & A/B testing
-10. **AI Chatbot with Azure** - NLP-powered customer service automation
+1. **[Smart City Analytics](https://github.com/DerrazSofiane/green-city-analytics)** - Urban tree maintenance optimization using geospatial ML
+2. **[Deep Learning Sentiment Analysis](https://github.com/DerrazSofiane/mlops-badbuzz-detector)** - Real-time brand protection system (94% accuracy)
+3. **[Computer Vision for Autonomous Vehicles](https://github.com/DerrazSofiane/cars-segmentation)** - Semantic segmentation with 76.4% mIoU
+4. **[Healthcare Data Engineering](https://github.com/DerrazSofiane/sante-publique-analytics)** - GDPR-compliant pipeline processing 10M+ records
+5. **[Customer Segmentation](https://github.com/DerrazSofiane/olist-client-segmentation)** - Unsupervised learning for targeted marketing
+6. **[Content Recommendation System](https://github.com/DerrazSofiane/yelp-reviews-analysis)** - Hybrid approach with 0.85 Precision@10
+7. **[Credit Scoring Model](https://github.com/DerrazSofiane/scoring_banking_credit)** - Interpretable ML with SHAP explanations
+8. **[AI Project Management Framework](https://github.com/DerrazSofiane/ai-project-scoping)** - Strategic planning methodology
+9. **[MLOps Implementation](https://github.com/DerrazSofiane/content-recommendation-model)** - End-to-end pipeline with monitoring & A/B testing
+10. **[AI Chatbot with Azure](https://github.com/DerrazSofiane/flyme-chatbot-model-mvp)** - NLP-powered customer service automation
 
 ### 🛠️ Technical Stack
 
