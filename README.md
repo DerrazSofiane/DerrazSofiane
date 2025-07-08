@@ -1,6 +1,6 @@
 # Hi there, I'm Sofiane Derraz 👋
 
-## 🚀 AI Engineer & Data Scientist | Building Intelligent Solutions
+## AI Engineer & Data Scientist | Building Intelligent Solutions
 
 I'm a freelance AI Engineer based in France, specializing in transforming complex business challenges into scalable AI solutions. With expertise spanning machine learning, deep learning, and MLOps, I help companies leverage the power of AI to drive real business value.
 
