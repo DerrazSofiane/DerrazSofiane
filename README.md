@@ -4,14 +4,14 @@
 
 I'm a freelance AI Engineer based in France, specializing in transforming complex business challenges into scalable AI solutions. With expertise spanning machine learning, deep learning, and MLOps, I help companies leverage the power of AI to drive real business value.
 
-### 🎯 What I Do
+### What I Do
 
 - **🤖 AI & Machine Learning**: Design and implement end-to-end ML pipelines from POC to production
 - **📊 Data Engineering**: Build robust data infrastructures that power intelligent decision-making
 - **🔧 MLOps & Automation**: Deploy scalable, monitored ML systems with automated retraining
 - **💡 Strategic AI Consulting**: Help businesses identify and implement high-impact AI opportunities
 
-### 💼 Recent Projects
+### Recent Projects
 
 #### 🏢 Professional Experience
 
@@ -58,19 +58,9 @@ Completed 10 comprehensive projects covering the entire AI/ML lifecycle:
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DerrazSofiane&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DerrazSofiane&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 ### 🏆 Achievements
 
-- **100% Completion** - OpenClassrooms AI Engineer Certification
+- **100% Completion** - OC CentraleSupélec AI Engineer Degree
 - **Top 10%** - Smart City Energy Prediction Competition
 - **40% Cost Reduction** - Achieved through AI automation for multiple clients
 - **2M+ Data Points** - Processed daily in production systems
