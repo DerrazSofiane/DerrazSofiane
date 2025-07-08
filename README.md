@@ -77,7 +77,7 @@ expertise = {
 }
 ```
 
-### 🌱 Current Focus
+### Current Focus
 
 - 🔍 Exploring advanced RAG (Retrieval-Augmented Generation) techniques
 - 🚀 Building production-ready GenAI applications
