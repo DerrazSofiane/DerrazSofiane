@@ -6,10 +6,10 @@ I'm a freelance AI Engineer based in France, specializing in transforming comple
 
 ### What I Do
 
-- **🤖 AI & Machine Learning**: Design and implement end-to-end ML pipelines from POC to production
-- **📊 Data Engineering**: Build robust data infrastructures that power intelligent decision-making
-- **🔧 MLOps & Automation**: Deploy scalable, monitored ML systems with automated retraining
-- **💡 Strategic AI Consulting**: Help businesses identify and implement high-impact AI opportunities
+- **AI & Machine Learning**: Design and implement end-to-end ML pipelines from POC to production
+- **Data Engineering**: Build robust data infrastructures that power intelligent decision-making
+- **MLOps & Automation**: Deploy scalable, monitored ML systems with automated retraining
+- **Strategic AI Consulting**: Help businesses identify and implement high-impact AI opportunities
 
 ### Recent Projects
 
@@ -34,7 +34,7 @@ Completed 10 comprehensive projects covering the entire AI/ML lifecycle:
 9. **[MLOps Implementation](https://github.com/DerrazSofiane/content-recommendation-model)** - End-to-end pipeline with monitoring & A/B testing
 10. **[AI Chatbot with Azure](https://github.com/DerrazSofiane/flyme-chatbot-model-mvp)** - NLP-powered customer service automation
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 #### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -79,10 +79,10 @@ expertise = {
 
 ### Current Focus
 
-- 🔍 Exploring advanced RAG (Retrieval-Augmented Generation) techniques
-- 🚀 Building production-ready GenAI applications
-- 📚 Contributing to open-source ML projects
-- 🎯 Developing industry-specific AI solutions
+- Exploring advanced RAG (Retrieval-Augmented Generation) techniques
+- Building production-ready GenAI applications
+- Contributing to open-source ML projects
+- Developing industry-specific AI solutions
 
 ### 💬 Let's Connect!
 
@@ -97,10 +97,10 @@ I'm always interested in collaborating on innovative AI projects and helping bus
 ### 🤝 Open to Opportunities
 
 I'm available for:
-- 🏢 Freelance AI/ML projects
-- 🎯 Strategic AI consulting
-- 🚀 Technical partnerships
-- 📊 Data science collaborations
+- Freelance AI/ML projects
+- Strategic AI consulting
+- Technical partnerships
+- Data science collaborations
 
 ---
 
