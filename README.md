@@ -6,10 +6,10 @@ I'm a freelance AI Engineer based in France, specializing in transforming comple
 
 ### What I Do
 
-- **AI & Machine Learning**: Design and implement end-to-end ML pipelines from POC to production
-- **Data Engineering**: Build robust data infrastructures that power intelligent decision-making
-- **MLOps & Automation**: Deploy scalable, monitored ML systems with automated retraining
-- **Strategic AI Consulting**: Help businesses identify and implement high-impact AI opportunities
+- 🤖 **AI & Machine Learning**: Design and implement end-to-end ML pipelines from POC to production
+- 📊 **Data Engineering**: Build robust data infrastructures that power intelligent decision-making
+- 🔧 **MLOps & Automation**: Deploy scalable, monitored ML systems with automated retraining
+- 💡 **Strategic AI Consulting**: Help businesses identify and implement high-impact AI opportunities
 
 ### Recent Projects
 
