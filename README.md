@@ -65,7 +65,7 @@ Completed 10 comprehensive projects covering the entire AI/ML lifecycle:
 - **40% Cost Reduction** - Achieved through AI automation for multiple clients
 - **2M+ Data Points** - Processed daily in production systems
 
-### 📊 Areas of Expertise
+### Areas of Expertise
 
 ```python
 expertise = {
