@@ -58,13 +58,6 @@ Completed 10 comprehensive projects covering the entire AI/ML lifecycle:
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-### 🏆 Achievements
-
-- **100% Completion** - OC CentraleSupélec AI Engineer Degree
-- **Top 10%** - Smart City Energy Prediction Competition
-- **40% Cost Reduction** - Achieved through AI automation for multiple clients
-- **2M+ Data Points** - Processed daily in production systems
-
 ### Areas of Expertise
 
 ```python
