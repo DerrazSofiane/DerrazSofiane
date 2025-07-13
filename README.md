@@ -107,7 +107,3 @@ I'm available for:
 <p align="center">
   <i>"Turning data into decisions, and algorithms into impact."</i>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DerrazSofiane&color=blueviolet" alt="Profile views" />
-</p>
