@@ -19,6 +19,7 @@ I'm a freelance AI Engineer based in France, specializing in transforming comple
 - **E-commerce Fraud Detection** - Developed ML system preventing €2M+ in fraudulent transactions
 - **Real-Time Tourism Analytics** - Created predictive analytics reducing tourist wait times by 40%
 - **B2B Lead Scoring System** - Implemented model increasing qualified leads by 178%
+- And more...
 
 #### 🎓 AI Engineer Projects
 Completed 10 comprehensive projects covering the entire AI/ML lifecycle:
