@@ -60,18 +60,6 @@ Completed 10 comprehensive projects covering the entire AI/ML lifecycle:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-### Areas of Expertise
-
-```python
-expertise = {
-    "Machine Learning": ["Supervised", "Unsupervised", "Reinforcement Learning"],
-    "Deep Learning": ["Computer Vision", "NLP", "Time Series"],
-    "MLOps": ["CI/CD", "Monitoring", "A/B Testing", "Model Registry"],
-    "Data Engineering": ["ETL Pipelines", "Real-time Processing", "Data Quality"],
-    "Business Domains": ["E-commerce", "Finance", "Healthcare", "Tourism"]
-}
-```
-
 ### Current Focus
 
 - Exploring advanced RAG (Retrieval-Augmented Generation) techniques
